@@ -16,7 +16,7 @@
 
 ## 📎 Артефакты проекта
 
-📄 [Спецификация Nakarabine 2.0 (PDF/Яндекс.Диск)(https://disk.yandex.ru/i/hM7hCt_f0biVXA)
+📄 [Спецификация Nakarabine 2.0 (PDF/Яндекс.Диск)](https://disk.yandex.ru/i/hM7hCt_f0biVXA)
 
 ---
 
