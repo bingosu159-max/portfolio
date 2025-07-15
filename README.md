@@ -15,7 +15,7 @@
 🔧 Работаю в Miro, Figma, Draw.io, Notion, Google Docs  
 📈 Знаком с SQL и REST API  
 📬 Готов выполнить тестовое задание и пройти собеседование  
-📱 Telegram: [@whynohrin](https://t.me/whynohrin)
+📱 Telegram: [@noeeq](https://t.me/noeeq)
 
 ---
 
