@@ -21,9 +21,13 @@
 ## 🧩 Артефакты проекта
 
 📌 [Карта пользовательских историй](https://miro.com/welcomeonboard/YnJwb3lFZnhOUkNJRlZUVGdOV2w4eERNblhQWnlOTWZPUTRFQThrQndiMG1laXlGV3k2aFBLSGpXOS9ISWVwazJrZXorZnBUKzFqK2VhczFRMXg5WGFUUXhuWUV6OVNlVllOcW14eDNlQlc4ekhSZVc3UnMxTWZ1dzdoejNGZ25nbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=937250833107)
+
 🗃️ [Диаграммы проекта](https://disk.yandex.ru/d/zwCDQTv5-34o8Q)
+
 📖 [Словарь данных](https://disk.yandex.ru/i/hYnpyCfskOi3EA)
+
 🖼️ [Прототип интерфейса (Figma)](https://www.figma.com/design/1ccyHWPk7NubFvjxcpANgA/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=4-581&t=Ajhy0rO4CWbYKpXB-1)
+
 🧪 [Программа и методика испытаний](https://disk.yandex.ru/i/XnSpuYcFQyWW9g)
 
 ---
